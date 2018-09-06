@@ -35,7 +35,7 @@ class fun():
                 laowang.add(name)
                 os.chdir('../')
             
-            elif a == '2':
+            elif a == '2':ttributeError: 'Hero' object has no attribute 'bullet_group'
                 name = input("输入姓名")
                 laowang = people()
                 laowang.dele(name)
